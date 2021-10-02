@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\E_Shop",
+    "\\E_Shop\\bin",
+    "\\E_Shop\\bin\\Debug",
+    "\\E_Shop\\Controllers",
+    "\\E_Shop\\Models",
+    "\\E_Shop\\Properties",
+    "\\E_Shop\\Services"
+  ],
+  "SelectedNode": "\\E_Shop\\Services\\EShopsServices.cs",
+  "PreviewInSolutionExplorer": false
+}
